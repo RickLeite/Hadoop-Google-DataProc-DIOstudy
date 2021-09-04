@@ -1,7 +1,7 @@
 # Digital Innovation One
 
 Código criado para utilização junto a plataforma da Digital Innovation One
-
+Aula Mestrada pelo Cloud Architect Marcelo Marques.
 
 ## Desafio GCP Dataproc
 
